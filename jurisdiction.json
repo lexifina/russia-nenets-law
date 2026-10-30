@@ -1,0 +1,11 @@
+{
+  "path": "ru-nen",
+  "code": "RU-NEN",
+  "name": "Nenets Autonomous Okrug",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-nenets-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
