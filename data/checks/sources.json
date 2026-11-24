@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-nenets",
+   "kind": "legislation",
+   "name": {
+    "en": "Nenets Autonomous Okrug: Official Internet Portal of Legal Information (region83)",
+    "ru": "Nenets Autonomous Okrug: Официальный интернет-портал правовой информации (region83)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region83",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/nenets/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-nenets-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
