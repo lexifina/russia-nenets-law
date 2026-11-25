@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:15:26Z",
+ "generated": "2026-11-25T07:01:08Z",
  "latest": {
   "pravo-nenets|russia/nenets/acts": {
    "attempt": 1,
@@ -13,45 +13,25 @@
    },
    "census": {
     "checked": 1012,
-    "current": 997,
+    "current": 1012,
     "gone": 0,
-    "held": 997,
-    "newest_in_repo": "2026-10-23",
-    "pending": 15,
-    "repo": 997,
+    "held": 1012,
+    "newest_in_repo": "2026-11-02",
+    "pending": 0,
+    "repo": 1012,
     "source_in_scope": 1012
    },
-   "check_id": "ru-pravo-nenets-20261124T141429Z",
-   "commits": {
-    "count": 2,
-    "from": "bcb836966a21e9373185e1cd0671e8662ed367d7",
-    "to": "663221190ab2507f52efd76e9070083c7c225874"
-   },
+   "check_id": "ru-pravo-nenets-20261125T061740Z",
+   "commits": null,
    "corpus": "russia/nenets/acts",
    "error": null,
-   "finished": "2026-11-24T14:15:25Z",
+   "finished": "2026-11-25T06:18:16Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region83: 1012 law-type documents listed (every page read); 997 held here; 15 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region83: 1012 law-type documents listed (every page read); 1012 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "8300202611020001",
-     "8300202611020002",
-     "8300202611020003",
-     "8300202611020004",
-     "8300202611020005",
-     "8300202611020006",
-     "8300202611020007",
-     "8300202611020008",
-     "8300202611020009",
-     "8300202611020010",
-     "8300202611020011",
-     "8300202611020012",
-     "8300202611020013",
-     "8300202611020014",
-     "8300202611020015"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -59,42 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "8300202611020001",
-     "8300202611020002",
-     "8300202611020003",
-     "8300202611020004",
-     "8300202611020005",
-     "8300202611020006",
-     "8300202611020007",
-     "8300202611020008",
-     "8300202611020009",
-     "8300202611020010",
-     "8300202611020011",
-     "8300202611020012",
-     "8300202611020013",
-     "8300202611020014",
-     "8300202611020015"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1012 law-type documents in block region83; newest published 2026-11-02",
    "source": "pravo-nenets",
-   "started": "2026-11-24T14:14:29Z",
+   "started": "2026-11-25T06:17:40Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
