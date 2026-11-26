@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:01:08Z",
+ "generated": "2026-11-26T06:18:13Z",
  "latest": {
   "pravo-nenets|russia/nenets/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1012,
     "source_in_scope": 1012
    },
-   "check_id": "ru-pravo-nenets-20261125T061740Z",
+   "check_id": "ru-pravo-nenets-20261126T054344Z",
    "commits": null,
    "corpus": "russia/nenets/acts",
    "error": null,
-   "finished": "2026-11-25T06:18:16Z",
+   "finished": "2026-11-26T05:44:14Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region83: 1012 law-type documents listed (every page read); 1012 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1012 law-type documents in block region83; newest published 2026-11-02",
    "source": "pravo-nenets",
-   "started": "2026-11-25T06:17:40Z",
+   "started": "2026-11-26T05:43:44Z",
    "unexplained": 0,
    "update": {
     "parts": []
