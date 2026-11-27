@@ -1,6 +1,6 @@
 # How this repository was made (Nenets Autonomous Okrug)
 
-This file is written by the build on 2026-11-24, the day the source data was retrieved.
+This file is written by the build on 2026-11-27, the day the source data was retrieved.
 
 ## Sources
 
@@ -36,23 +36,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `zakony-2023` | Nenets Autonomous Okrug: catalogue of the laws published in 2023 (facts only, no law text) | 12 | 2023-02-17 to 2023-12-19 |
 | `zakony-2024` | Nenets Autonomous Okrug: catalogue of the laws published in 2024 (facts only, no law text) | 9 | 2024-02-27 to 2024-12-26 |
 | `zakony-2025` | Nenets Autonomous Okrug: catalogue of the laws published in 2025 (facts only, no law text) | 18 | 2025-02-25 to 2025-12-24 |
-| `zakony-2026` | Nenets Autonomous Okrug: catalogue of the laws published in 2026 (facts only, no law text) | 9 | 2026-02-18 to 2026-11-02 |
+| `zakony-2026` | Nenets Autonomous Okrug: catalogue of the laws published in 2026 (facts only, no law text) | 10 | 2026-02-18 to 2026-11-26 |
 
-The build made 178 commits:
+The build made 179 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 12 | baseline texts where the record starts |
-| 166 | named laws, court decisions and treaties |
+| 167 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-24.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-27.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 166 laws in the record.
-- 344 tags.
+- 167 laws in the record.
+- 346 tags.
 
 ## Dates
 
@@ -64,7 +64,7 @@ When a law gives no date of its own, the default rule applies: Catalogue entries
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0f40a411c50b3cfb19cb58ab1de1647adf3733596a0ef56f17edac627f85ad54` (989128 bytes).
+- Corpus: sha256 `10e9f59608120e01cf5684c244685a9fd1b5d6615db5536ab737a2b39f810bb8` (1050393 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 

@@ -1,6 +1,6 @@
 # Nenets Autonomous Okrug: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 9 versions, from 2026-02-18 (latest in force: 2026-11-02) · <http://publication.pravo.gov.ru/documents/block/region83>
+Законы 2026 · 10 versions, from 2026-02-18 (latest in force: 2026-11-26) · <http://publication.pravo.gov.ru/documents/block/region83>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -73,3 +73,6 @@
 | Закон № 229-оз | [229-oz.md](229-oz.md) | 1 | 2026-11-02 |
 | Закон № 230-оз | [230-oz.md](230-oz.md) | 1 | 2026-11-02 |
 | Закон № 231-оз | [231-oz.md](231-oz.md) | 1 | 2026-11-02 |
+| Закон № 232-оз | [232-oz.md](232-oz.md) | 1 | 2026-11-26 |
+| Закон № 233-оз | [233-oz.md](233-oz.md) | 1 | 2026-11-26 |
+| Закон № 237-оз | [237-oz.md](237-oz.md) | 1 | 2026-11-26 |
