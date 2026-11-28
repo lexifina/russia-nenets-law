@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:10:27Z",
+ "generated": "2026-11-28T06:24:47Z",
  "latest": {
   "pravo-nenets|russia/nenets/acts": {
    "attempt": 1,
@@ -13,33 +13,25 @@
    },
    "census": {
     "checked": 1015,
-    "current": 1012,
+    "current": 1015,
     "gone": 0,
-    "held": 1012,
-    "newest_in_repo": "2026-11-02",
-    "pending": 3,
-    "repo": 1012,
+    "held": 1015,
+    "newest_in_repo": "2026-11-26",
+    "pending": 0,
+    "repo": 1015,
     "source_in_scope": 1015
    },
-   "check_id": "ru-pravo-nenets-20261127T053916Z",
-   "commits": {
-    "count": 2,
-    "from": "66f324029da4e5692e3f7da92a61fe826238fa3b",
-    "to": "6034bd6225c79980b3548f40ca4526e4d879b3ee"
-   },
+   "check_id": "ru-pravo-nenets-20261128T054659Z",
+   "commits": null,
    "corpus": "russia/nenets/acts",
    "error": null,
-   "finished": "2026-11-27T05:39:59Z",
+   "finished": "2026-11-28T05:47:28Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region83: 1015 law-type documents listed (every page read); 1012 held here; 3 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region83: 1015 law-type documents listed (every page read); 1015 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "8300202611260002",
-     "8300202611260003",
-     "8300202611260004"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -47,30 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "8300202611260002",
-     "8300202611260003",
-     "8300202611260004"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1015 law-type documents in block region83; newest published 2026-11-26",
    "source": "pravo-nenets",
-   "started": "2026-11-27T05:39:16Z",
+   "started": "2026-11-28T05:46:59Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261127-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
